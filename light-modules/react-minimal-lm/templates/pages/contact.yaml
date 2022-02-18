@@ -1,5 +1,5 @@
 title: 'React: Contact'
-url: http://localhost:3000
+url: https://agitated-lovelace-01a0b8.netlify.app
 dialog: spa-lm:pages/basic
 
 renderType: spa
