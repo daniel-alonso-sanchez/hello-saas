@@ -1,2 +1,2 @@
-class: info.magnolia.rest.delivery.norsu.NorsuDeliveryEndpointDefinition
+class: info.magnolia.rest.delivery.norsu.ConfiguredNorsuDeliveryEndpointDefinition
 depth: 3
