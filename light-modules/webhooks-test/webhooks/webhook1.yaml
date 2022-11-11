@@ -1,0 +1,11 @@
+name: webhook1
+url: https://webhook.site/96ea8785-7e55-4ac8-b1af-b3de8b562c38
+method: get
+enabled: true
+events:
+  - name: p1
+    eventType: Published
+    filter: "@path LIKE '%madrid%'"
+  - name: p2
+    eventType: Unpublished
+    filter: "@path LIKE '%madrid%'"
