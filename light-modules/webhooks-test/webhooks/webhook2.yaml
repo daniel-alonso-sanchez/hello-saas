@@ -5,3 +5,4 @@ enabled: true
 events:
   - name: p1
     eventType: Published
+    filter: "@path LIKE '%madrid%'"
