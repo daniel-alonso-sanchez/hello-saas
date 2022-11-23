@@ -3,6 +3,9 @@ restClientName: alreadyConfiguredClient
 restCallName: publish
 enabled: true
 events:
-  - name: p1
+  - name: p3
     eventType: Published
-    filter: "@path LIKE '%madrid%'"
+    filter: "@path LIKE '%madrid-webhook%'"
+  - name: p4
+    eventType: Unpublished
+    filter: "@path LIKE '%madrid-webhook%'"

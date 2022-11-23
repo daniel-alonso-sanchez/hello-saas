@@ -5,7 +5,7 @@ enabled: true
 events:
   - name: p1
     eventType: Published
-    filter: "@path LIKE '%madrid%'"
+    filter: "@path LIKE '%madrid-for-webhook%'"
   - name: p2
     eventType: Unpublished
-    filter: "@path LIKE '%madrid%'"
+    filter: "@path LIKE '%madrid-for-webhook%'"
