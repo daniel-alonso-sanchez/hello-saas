@@ -2,4 +2,4 @@ baseUrl: https://webhook.site
 restCalls:
   publish:
     method: get
-    path: /d37d68dc-25e7-4821-9857-afd22db0dd9f
+    path: /2f89bd42-59b7-477f-b209-08d7dd934678
