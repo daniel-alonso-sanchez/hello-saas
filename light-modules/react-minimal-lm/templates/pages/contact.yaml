@@ -1,11 +1,11 @@
 title: 'React: Contact'
-baseUrl: https://agitated-lovelace-01a0b8.netlify.app
+baseUrl: https://hello-saas
 routeTemplate: '/{language}{{@path}}'
 
 dialog: spa-lm:pages/basic
 
 renderType: spa
-class: info.magnolia.rendering.spa.renderer.SpaRenderableDefinition
+$type: spa
 
 areas:
   main:
