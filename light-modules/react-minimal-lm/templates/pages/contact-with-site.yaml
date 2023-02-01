@@ -1,0 +1,14 @@
+title: 'React: Contact-with-site'
+
+dialog: spa-lm:pages/basic
+
+class: info.magnolia.site.spa.norsu.rendering.renderer.SiteAwareSpaRenderableDefinition
+
+areas:
+  main:
+    title: Main Area
+    availableComponents:
+      # Paragraph:
+      #   id: spa-lm:components/paragraph
+      Expander:
+        id: spa-lm:components/expander

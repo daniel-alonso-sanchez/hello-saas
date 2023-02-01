@@ -1,0 +1,31 @@
+title: 'React: Basic-with-site'
+
+
+dialog: spa-lm:pages/basic
+
+class: info.magnolia.site.spa.norsu.rendering.renderer.SiteAwareSpaRenderableDefinition
+
+areas:
+  main:
+    title: Main Area
+    availableComponents:
+      Headline:
+        id: spa-lm:components/headline
+      Image:
+        id: spa-lm:components/image
+      # Paragraph:
+      #   id: spa-lm:components/paragraph
+      Expander:
+        id: spa-lm:components/expander
+      List:
+        id: spa-lm:components/list
+
+  extras:
+    title: Extras Area
+    availableComponents:
+      Headline:
+        id: spa-lm:components/headline
+      Paragraph:
+        id: spa-lm:components/paragraph
+      List:
+        id: spa-lm:components/list
