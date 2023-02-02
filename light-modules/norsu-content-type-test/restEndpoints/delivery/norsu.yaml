@@ -1,2 +1,4 @@
-class: info.magnolia.rest.delivery.norsu.ConfiguredNorsuDeliveryEndpointDefinition
-depth: 3
+$type: deliveryEndpoint_v2
+includeSystemProperties: true
+depth: 5
+workspace: /
