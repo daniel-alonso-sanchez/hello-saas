@@ -2,7 +2,7 @@ title: 'React: Contact-with-site'
 
 dialog: spa-lm:pages/basic
 
-class: info.magnolia.site.spa.norsu.rendering.renderer.SiteAwareSpaRenderableDefinition
+$type: siteSpa
 
 areas:
   main:
