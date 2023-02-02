@@ -1,7 +1,7 @@
 templates:
   prototype:
     baseUrl: http://cooltravel.com
-    routeTemplate: '/'
+    routeTemplate: '/{language}{{@path}}'
     $type: spaPrototype
     areas:
       main:
