@@ -1,6 +1,6 @@
 title: 'React: Basic'
 
-baseUrl: https://hello-saas
+baseUrl: https://silver-kleicha-7665ab.netlify.app/
 routeTemplate: '/{language}{{@path}}'
 
 dialog: spa-lm:pages/basic
